@@ -10,13 +10,6 @@
 
 ---
 
-### 🚀 What I'm building
-
-- ♟️ **Shatranj** — a serverless, browser-based chess platform on Cloudflare Pages + D1. Play against a Stockfish AI or a friend, with a global leaderboard.
-- 🤖 **Telegram Bot Studio** — host your own Telegram bot without code. Paste a BotFather token, set replies with a simple form, and it runs 24×7 on Cloudflare.
-- 🌐 **advaya** — my personal site plus a set of small web apps: an image compressor, sudoku, a mental-math trainer and a finance tracker.
-- 🌍 **IP Profile** — instant IP-address geolocation with an interactive map. → [live demo](https://advayyyy.github.io/ip-profile)
-
 ### 🛠️ Tech I work with
 
 <p>
